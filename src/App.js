@@ -1,5 +1,9 @@
 import React from 'react'
 
+/**
+ * This is how to bootstraping components and containers
+ * This is the only way to make a code more readable and simple
+ */
 import {Blog, Features, Footer, Header, Possibility, WhatGP3} from './containers'
 import {Article, Brand, CTA, Feature, Navbar} from './components'
 
