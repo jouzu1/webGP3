@@ -1,0 +1,16 @@
+/*
+Styling untuk semua elemen
+*/
+* {
+    box-sizing: border-box;
+    padidng: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+/*
+Styling untuk body HTML
+*/
+body {
+    background: var(--color-bg)
+}
